@@ -39,3 +39,5 @@ Este proyecto consiste en diseñar un sistema de riego automático para plantas 
 * Huertos domésticos.
 * Agricultura automatizada.
 * Sistemas de ahorro de agua.
+
+## Modificación del proyecto 
