@@ -41,3 +41,16 @@ Este proyecto consiste en diseñar un sistema de riego automático para plantas 
 * Sistemas de ahorro de agua.
 
 ## Modificación del proyecto 
+
+*(Puedes añadir aquí las futuras modificaciones o mejoras que le hagas a tu proyecto)*
+
+## Conclusión
+
+Un Sistema de Riego Automático Inteligente optimiza el uso del agua, reduce costos, mejora la productividad de los cultivos y contribuye a la sostenibilidad ambiental mediante la automatización y el monitoreo en tiempo real.
+
+# Beneficios de un Sistema de Riego Automático Inteligente
+
+## 1. Ahorro de Agua
+* Utiliza sensores de humedad para regar únicamente cuando es necesario.
+* Reduce el desperdicio de agua por exceso de riego.
+* Optimiza el consumo hídrico en jardines, cultivos y áreas verdes.
