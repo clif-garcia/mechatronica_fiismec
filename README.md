@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # \# Proyecto Arduino: Sistema de Riego Automático Inteligente
 
 # 
